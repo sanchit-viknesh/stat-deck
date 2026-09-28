@@ -1,0 +1,1358 @@
+{
+  "sport": "cricket",
+  "generatedAt": "2026-09-13T00:00:00Z",
+  "cards": [
+    {
+      "id": "sachin-tendulkar",
+      "name": "Sachin Tendulkar",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 463,
+        "innings": 426,
+        "notOuts": 39,
+        "runs": 18426,
+        "highestScore": 200,
+        "average": 47.61,
+        "ballsFaced": 21368,
+        "strikeRate": 86.23,
+        "hundreds": 49,
+        "fifties": 96
+      },
+      "bowling": {
+        "overs": 383.2,
+        "runs": 2039,
+        "wickets": 154,
+        "bestBowling": "5/32",
+        "average": 13.24,
+        "economyRate": 5.32
+      }
+    },
+    {
+      "id": "virat-kohli",
+      "name": "Virat Kohli",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 292,
+        "innings": 269,
+        "notOuts": 39,
+        "runs": 13906,
+        "highestScore": 183,
+        "average": 60.46,
+        "ballsFaced": 14825,
+        "strikeRate": 93.8,
+        "hundreds": 50,
+        "fifties": 72
+      },
+      "bowling": {
+        "overs": 18,
+        "runs": 113,
+        "wickets": 4,
+        "bestBowling": "1/13",
+        "average": 28.25,
+        "economyRate": 6.28
+      }
+    },
+    {
+      "id": "rohit-sharma",
+      "name": "Rohit Sharma",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 262,
+        "innings": 241,
+        "notOuts": 31,
+        "runs": 10709,
+        "highestScore": 264,
+        "average": 51,
+        "ballsFaced": 11511,
+        "strikeRate": 93.03,
+        "hundreds": 31,
+        "fifties": 55
+      },
+      "bowling": {
+        "overs": 51,
+        "runs": 273,
+        "wickets": 8,
+        "bestBowling": "2/27",
+        "average": 34.13,
+        "economyRate": 5.35
+      }
+    },
+    {
+      "id": "ab-de-villiers",
+      "name": "AB de Villiers",
+      "team": "South Africa",
+      "sport": "cricket",
+      "batting": {
+        "matches": 228,
+        "innings": 210,
+        "notOuts": 38,
+        "runs": 9577,
+        "highestScore": 176,
+        "average": 55.68,
+        "ballsFaced": 9474,
+        "strikeRate": 101.09,
+        "hundreds": 25,
+        "fifties": 53
+      },
+      "bowling": {
+        "overs": 15,
+        "runs": 111,
+        "wickets": 9,
+        "bestBowling": "2/16",
+        "average": 12.33,
+        "economyRate": 7.4
+      }
+    },
+    {
+      "id": "jasprit-bumrah",
+      "name": "Jasprit Bumrah",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 89,
+        "innings": 20,
+        "notOuts": 10,
+        "runs": 50,
+        "highestScore": 10,
+        "average": 5,
+        "ballsFaced": 90,
+        "strikeRate": 55.56,
+        "hundreds": 0,
+        "fifties": 0
+      },
+      "bowling": {
+        "overs": 750,
+        "runs": 3353,
+        "wickets": 149,
+        "bestBowling": "6/19",
+        "average": 22.5,
+        "economyRate": 4.47
+      }
+    },
+    {
+      "id": "muttiah-muralitharan",
+      "name": "Muttiah Muralitharan",
+      "team": "Sri Lanka",
+      "sport": "cricket",
+      "batting": {
+        "matches": 350,
+        "innings": 155,
+        "notOuts": 56,
+        "runs": 674,
+        "highestScore": 27,
+        "average": 6.81,
+        "ballsFaced": 1085,
+        "strikeRate": 62.12,
+        "hundreds": 0,
+        "fifties": 0
+      },
+      "bowling": {
+        "overs": 3122.1,
+        "runs": 12270,
+        "wickets": 534,
+        "bestBowling": "7/30",
+        "average": 22.98,
+        "economyRate": 3.93
+      }
+    },
+    {
+      "id": "shane-warne",
+      "name": "Shane Warne",
+      "team": "Australia",
+      "sport": "cricket",
+      "batting": {
+        "matches": 194,
+        "innings": 107,
+        "notOuts": 21,
+        "runs": 1018,
+        "highestScore": 55,
+        "average": 11.84,
+        "ballsFaced": 1412,
+        "strikeRate": 72.1,
+        "hundreds": 0,
+        "fifties": 1
+      },
+      "bowling": {
+        "overs": 1791.5,
+        "runs": 7542,
+        "wickets": 293,
+        "bestBowling": "5/33",
+        "average": 25.74,
+        "economyRate": 4.21
+      }
+    },
+    {
+      "id": "glenn-mcgrath",
+      "name": "Glenn McGrath",
+      "team": "Australia",
+      "sport": "cricket",
+      "batting": {
+        "matches": 250,
+        "innings": 130,
+        "notOuts": 69,
+        "runs": 947,
+        "highestScore": 39,
+        "average": 15.52,
+        "ballsFaced": 1543,
+        "strikeRate": 61.37,
+        "hundreds": 0,
+        "fifties": 0
+      },
+      "bowling": {
+        "overs": 2219.4,
+        "runs": 8389,
+        "wickets": 380,
+        "bestBowling": "7/15",
+        "average": 22.08,
+        "economyRate": 3.78
+      }
+    },
+    {
+      "id": "brian-lara",
+      "name": "Brian Lara",
+      "team": "West Indies",
+      "sport": "cricket",
+      "batting": {
+        "matches": 299,
+        "innings": 275,
+        "notOuts": 30,
+        "runs": 10405,
+        "highestScore": 169,
+        "average": 42.47,
+        "ballsFaced": 13086,
+        "strikeRate": 79.51,
+        "hundreds": 19,
+        "fifties": 63
+      },
+      "bowling": {
+        "overs": 10,
+        "runs": 69,
+        "wickets": 4,
+        "bestBowling": "2/5",
+        "average": 17.25,
+        "economyRate": 6.9
+      }
+    },
+    {
+      "id": "ricky-ponting",
+      "name": "Ricky Ponting",
+      "team": "Australia",
+      "sport": "cricket",
+      "batting": {
+        "matches": 375,
+        "innings": 345,
+        "notOuts": 39,
+        "runs": 13704,
+        "highestScore": 164,
+        "average": 44.78,
+        "ballsFaced": 17047,
+        "strikeRate": 80.39,
+        "hundreds": 30,
+        "fifties": 82
+      },
+      "bowling": {
+        "overs": 100,
+        "runs": 450,
+        "wickets": 5,
+        "bestBowling": "2/9",
+        "average": 90,
+        "economyRate": 4.5
+      }
+    },
+    {
+      "id": "kumar-sangakkara",
+      "name": "Kumar Sangakkara",
+      "team": "Sri Lanka",
+      "sport": "cricket",
+      "batting": {
+        "matches": 404,
+        "innings": 372,
+        "notOuts": 44,
+        "runs": 14234,
+        "highestScore": 169,
+        "average": 43.4,
+        "ballsFaced": 18050,
+        "strikeRate": 78.86,
+        "hundreds": 25,
+        "fifties": 93
+      },
+      "bowling": {
+        "overs": 0,
+        "runs": 0,
+        "wickets": 0,
+        "bestBowling": "0/0",
+        "average": 0,
+        "economyRate": 0
+      }
+    },
+    {
+      "id": "mahela-jayawardene",
+      "name": "Mahela Jayawardene",
+      "team": "Sri Lanka",
+      "sport": "cricket",
+      "batting": {
+        "matches": 448,
+        "innings": 412,
+        "notOuts": 40,
+        "runs": 12650,
+        "highestScore": 144,
+        "average": 34.01,
+        "ballsFaced": 16021,
+        "strikeRate": 78.96,
+        "hundreds": 19,
+        "fifties": 77
+      },
+      "bowling": {
+        "overs": 60,
+        "runs": 336,
+        "wickets": 8,
+        "bestBowling": "2/23",
+        "average": 42,
+        "economyRate": 5.6
+      }
+    },
+    {
+      "id": "sourav-ganguly",
+      "name": "Sourav Ganguly",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 311,
+        "innings": 286,
+        "notOuts": 21,
+        "runs": 11363,
+        "highestScore": 183,
+        "average": 42.88,
+        "ballsFaced": 15418,
+        "strikeRate": 73.7,
+        "hundreds": 22,
+        "fifties": 72
+      },
+      "bowling": {
+        "overs": 388,
+        "runs": 1862,
+        "wickets": 100,
+        "bestBowling": "5/16",
+        "average": 18.62,
+        "economyRate": 4.8
+      }
+    },
+    {
+      "id": "rahul-dravid",
+      "name": "Rahul Dravid",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 344,
+        "innings": 316,
+        "notOuts": 31,
+        "runs": 10889,
+        "highestScore": 153,
+        "average": 38.21,
+        "ballsFaced": 15285,
+        "strikeRate": 71.24,
+        "hundreds": 12,
+        "fifties": 83
+      },
+      "bowling": {
+        "overs": 9,
+        "runs": 56,
+        "wickets": 4,
+        "bestBowling": "2/43",
+        "average": 14,
+        "economyRate": 6.2
+      }
+    },
+    {
+      "id": "adam-gilchrist",
+      "name": "Adam Gilchrist",
+      "team": "Australia",
+      "sport": "cricket",
+      "batting": {
+        "matches": 287,
+        "innings": 264,
+        "notOuts": 25,
+        "runs": 9619,
+        "highestScore": 172,
+        "average": 40.25,
+        "ballsFaced": 9923,
+        "strikeRate": 96.94,
+        "hundreds": 16,
+        "fifties": 55
+      },
+      "bowling": {
+        "overs": 0,
+        "runs": 0,
+        "wickets": 0,
+        "bestBowling": "0/0",
+        "average": 0,
+        "economyRate": 0
+      }
+    },
+    {
+      "id": "chris-gayle",
+      "name": "Chris Gayle",
+      "team": "West Indies",
+      "sport": "cricket",
+      "batting": {
+        "matches": 301,
+        "innings": 277,
+        "notOuts": 21,
+        "runs": 10480,
+        "highestScore": 215,
+        "average": 40.94,
+        "ballsFaced": 12322,
+        "strikeRate": 85.05,
+        "hundreds": 25,
+        "fifties": 54
+      },
+      "bowling": {
+        "overs": 353,
+        "runs": 1610,
+        "wickets": 167,
+        "bestBowling": "5/46",
+        "average": 9.64,
+        "economyRate": 4.56
+      }
+    },
+    {
+      "id": "david-warner",
+      "name": "David Warner",
+      "team": "Australia",
+      "sport": "cricket",
+      "batting": {
+        "matches": 161,
+        "innings": 148,
+        "notOuts": 11,
+        "runs": 6932,
+        "highestScore": 179,
+        "average": 50.6,
+        "ballsFaced": 7144,
+        "strikeRate": 97.03,
+        "hundreds": 22,
+        "fifties": 33
+      },
+      "bowling": {
+        "overs": 3,
+        "runs": 17,
+        "wickets": 0,
+        "bestBowling": "0/5",
+        "average": null,
+        "economyRate": 5.5
+      }
+    },
+    {
+      "id": "joe-root",
+      "name": "Joe Root",
+      "team": "England",
+      "sport": "cricket",
+      "batting": {
+        "matches": 173,
+        "innings": 159,
+        "notOuts": 23,
+        "runs": 6866,
+        "highestScore": 133,
+        "average": 50.49,
+        "ballsFaced": 7918,
+        "strikeRate": 86.71,
+        "hundreds": 16,
+        "fifties": 39
+      },
+      "bowling": {
+        "overs": 190,
+        "runs": 1026,
+        "wickets": 22,
+        "bestBowling": "3/52",
+        "average": 46.64,
+        "economyRate": 5.4
+      }
+    },
+    {
+      "id": "babar-azam",
+      "name": "Babar Azam",
+      "team": "Pakistan",
+      "sport": "cricket",
+      "batting": {
+        "matches": 128,
+        "innings": 118,
+        "notOuts": 14,
+        "runs": 6218,
+        "highestScore": 158,
+        "average": 59.79,
+        "ballsFaced": 6997,
+        "strikeRate": 88.87,
+        "hundreds": 20,
+        "fifties": 33
+      },
+      "bowling": {
+        "overs": 0,
+        "runs": 0,
+        "wickets": 0,
+        "bestBowling": "0/0",
+        "average": 0,
+        "economyRate": 0
+      }
+    },
+    {
+      "id": "hashim-amla",
+      "name": "Hashim Amla",
+      "team": "South Africa",
+      "sport": "cricket",
+      "batting": {
+        "matches": 181,
+        "innings": 167,
+        "notOuts": 18,
+        "runs": 8113,
+        "highestScore": 159,
+        "average": 54.45,
+        "ballsFaced": 9122,
+        "strikeRate": 88.94,
+        "hundreds": 27,
+        "fifties": 39
+      },
+      "bowling": {
+        "overs": 4,
+        "runs": 20,
+        "wickets": 0,
+        "bestBowling": "0/2",
+        "average": null,
+        "economyRate": 5
+      }
+    },
+    {
+      "id": "steve-smith",
+      "name": "Steve Smith",
+      "team": "Australia",
+      "sport": "cricket",
+      "batting": {
+        "matches": 155,
+        "innings": 143,
+        "notOuts": 24,
+        "runs": 5758,
+        "highestScore": 164,
+        "average": 48.39,
+        "ballsFaced": 6567,
+        "strikeRate": 87.68,
+        "hundreds": 12,
+        "fifties": 32
+      },
+      "bowling": {
+        "overs": 145,
+        "runs": 798,
+        "wickets": 28,
+        "bestBowling": "3/16",
+        "average": 28.5,
+        "economyRate": 5.5
+      }
+    },
+    {
+      "id": "ms-dhoni",
+      "name": "MS Dhoni",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 350,
+        "innings": 322,
+        "notOuts": 96,
+        "runs": 10773,
+        "highestScore": 183,
+        "average": 47.67,
+        "ballsFaced": 12304,
+        "strikeRate": 87.56,
+        "hundreds": 10,
+        "fifties": 73
+      },
+      "bowling": {
+        "overs": 0,
+        "runs": 0,
+        "wickets": 0,
+        "bestBowling": "0/0",
+        "average": 0,
+        "economyRate": 0
+      }
+    },
+    {
+      "id": "wasim-akram",
+      "name": "Wasim Akram",
+      "team": "Pakistan",
+      "sport": "cricket",
+      "batting": {
+        "matches": 356,
+        "innings": 280,
+        "notOuts": 42,
+        "runs": 3717,
+        "highestScore": 86,
+        "average": 15.62,
+        "ballsFaced": 4208,
+        "strikeRate": 88.34,
+        "hundreds": 0,
+        "fifties": 6
+      },
+      "bowling": {
+        "overs": 3906,
+        "runs": 15194,
+        "wickets": 502,
+        "bestBowling": "5/15",
+        "average": 30.27,
+        "economyRate": 3.89
+      }
+    },
+    {
+      "id": "waqar-younis",
+      "name": "Waqar Younis",
+      "team": "Pakistan",
+      "sport": "cricket",
+      "batting": {
+        "matches": 262,
+        "innings": 139,
+        "notOuts": 37,
+        "runs": 1010,
+        "highestScore": 37,
+        "average": 9.9,
+        "ballsFaced": 1412,
+        "strikeRate": 71.53,
+        "hundreds": 0,
+        "fifties": 1
+      },
+      "bowling": {
+        "overs": 2201,
+        "runs": 10301,
+        "wickets": 416,
+        "bestBowling": "7/36",
+        "average": 24.76,
+        "economyRate": 4.68
+      }
+    },
+    {
+      "id": "courtney-walsh",
+      "name": "Courtney Walsh",
+      "team": "West Indies",
+      "sport": "cricket",
+      "batting": {
+        "matches": 205,
+        "innings": 76,
+        "notOuts": 39,
+        "runs": 768,
+        "highestScore": 30,
+        "average": 20.76,
+        "ballsFaced": 1368,
+        "strikeRate": 56.13,
+        "hundreds": 0,
+        "fifties": 0
+      },
+      "bowling": {
+        "overs": 1815,
+        "runs": 6661,
+        "wickets": 227,
+        "bestBowling": "5/1",
+        "average": 29.34,
+        "economyRate": 3.67
+      }
+    },
+    {
+      "id": "curtly-ambrose",
+      "name": "Curtly Ambrose",
+      "team": "West Indies",
+      "sport": "cricket",
+      "batting": {
+        "matches": 176,
+        "innings": 67,
+        "notOuts": 28,
+        "runs": 640,
+        "highestScore": 31,
+        "average": 16.41,
+        "ballsFaced": 1224,
+        "strikeRate": 52.27,
+        "hundreds": 0,
+        "fifties": 0
+      },
+      "bowling": {
+        "overs": 1616,
+        "runs": 5624,
+        "wickets": 225,
+        "bestBowling": "5/17",
+        "average": 25,
+        "economyRate": 3.48
+      }
+    },
+    {
+      "id": "anil-kumble",
+      "name": "Anil Kumble",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 271,
+        "innings": 135,
+        "notOuts": 38,
+        "runs": 938,
+        "highestScore": 26,
+        "average": 9.67,
+        "ballsFaced": 1470,
+        "strikeRate": 63.79,
+        "hundreds": 0,
+        "fifties": 0
+      },
+      "bowling": {
+        "overs": 2308,
+        "runs": 9924,
+        "wickets": 337,
+        "bestBowling": "6/12",
+        "average": 29.45,
+        "economyRate": 4.3
+      }
+    },
+    {
+      "id": "zaheer-khan",
+      "name": "Zaheer Khan",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 200,
+        "innings": 92,
+        "notOuts": 33,
+        "runs": 995,
+        "highestScore": 41,
+        "average": 16.86,
+        "ballsFaced": 1409,
+        "strikeRate": 70.61,
+        "hundreds": 0,
+        "fifties": 0
+      },
+      "bowling": {
+        "overs": 1523,
+        "runs": 7387,
+        "wickets": 282,
+        "bestBowling": "5/42",
+        "average": 26.2,
+        "economyRate": 4.85
+      }
+    },
+    {
+      "id": "dale-steyn",
+      "name": "Dale Steyn",
+      "team": "South Africa",
+      "sport": "cricket",
+      "batting": {
+        "matches": 125,
+        "innings": 66,
+        "notOuts": 21,
+        "runs": 683,
+        "highestScore": 60,
+        "average": 15.18,
+        "ballsFaced": 892,
+        "strikeRate": 76.55,
+        "hundreds": 0,
+        "fifties": 1
+      },
+      "bowling": {
+        "overs": 977,
+        "runs": 4299,
+        "wickets": 196,
+        "bestBowling": "6/39",
+        "average": 21.93,
+        "economyRate": 4.4
+      }
+    },
+    {
+      "id": "mitchell-starc",
+      "name": "Mitchell Starc",
+      "team": "Australia",
+      "sport": "cricket",
+      "batting": {
+        "matches": 128,
+        "innings": 75,
+        "notOuts": 15,
+        "runs": 858,
+        "highestScore": 52,
+        "average": 14.3,
+        "ballsFaced": 985,
+        "strikeRate": 87.15,
+        "hundreds": 0,
+        "fifties": 2
+      },
+      "bowling": {
+        "overs": 1010,
+        "runs": 5070,
+        "wickets": 250,
+        "bestBowling": "6/28",
+        "average": 20.28,
+        "economyRate": 5.02
+      }
+    },
+    {
+      "id": "trent-boult",
+      "name": "Trent Boult",
+      "team": "New Zealand",
+      "sport": "cricket",
+      "batting": {
+        "matches": 105,
+        "innings": 46,
+        "notOuts": 15,
+        "runs": 335,
+        "highestScore": 33,
+        "average": 10.81,
+        "ballsFaced": 406,
+        "strikeRate": 82.51,
+        "hundreds": 0,
+        "fifties": 0
+      },
+      "bowling": {
+        "overs": 895,
+        "runs": 4466,
+        "wickets": 211,
+        "bestBowling": "7/34",
+        "average": 21.17,
+        "economyRate": 4.99
+      }
+    },
+    {
+      "id": "rashid-khan",
+      "name": "Rashid Khan",
+      "team": "Afghanistan",
+      "sport": "cricket",
+      "batting": {
+        "matches": 105,
+        "innings": 70,
+        "notOuts": 18,
+        "runs": 1103,
+        "highestScore": 60,
+        "average": 21.21,
+        "ballsFaced": 1043,
+        "strikeRate": 105.75,
+        "hundreds": 0,
+        "fifties": 3
+      },
+      "bowling": {
+        "overs": 900,
+        "runs": 3744,
+        "wickets": 194,
+        "bestBowling": "7/18",
+        "average": 19.3,
+        "economyRate": 4.16
+      }
+    },
+    {
+      "id": "lasith-malinga",
+      "name": "Lasith Malinga",
+      "team": "Sri Lanka",
+      "sport": "cricket",
+      "batting": {
+        "matches": 226,
+        "innings": 100,
+        "notOuts": 39,
+        "runs": 649,
+        "highestScore": 56,
+        "average": 10.64,
+        "ballsFaced": 700,
+        "strikeRate": 92.71,
+        "hundreds": 0,
+        "fifties": 0
+      },
+      "bowling": {
+        "overs": 1710,
+        "runs": 8807,
+        "wickets": 338,
+        "bestBowling": "6/38",
+        "average": 26.06,
+        "economyRate": 5.15
+      }
+    },
+    {
+      "id": "shaun-pollock",
+      "name": "Shaun Pollock",
+      "team": "South Africa",
+      "sport": "cricket",
+      "batting": {
+        "matches": 303,
+        "innings": 188,
+        "notOuts": 55,
+        "runs": 3519,
+        "highestScore": 75,
+        "average": 26.46,
+        "ballsFaced": 4426,
+        "strikeRate": 79.51,
+        "hundreds": 1,
+        "fifties": 16
+      },
+      "bowling": {
+        "overs": 2461,
+        "runs": 9032,
+        "wickets": 393,
+        "bestBowling": "6/35",
+        "average": 22.98,
+        "economyRate": 3.67
+      }
+    },
+    {
+      "id": "brett-lee",
+      "name": "Brett Lee",
+      "team": "Australia",
+      "sport": "cricket",
+      "batting": {
+        "matches": 221,
+        "innings": 129,
+        "notOuts": 41,
+        "runs": 1779,
+        "highestScore": 57,
+        "average": 20.22,
+        "ballsFaced": 1840,
+        "strikeRate": 96.68,
+        "hundreds": 0,
+        "fifties": 3
+      },
+      "bowling": {
+        "overs": 1792,
+        "runs": 8530,
+        "wickets": 380,
+        "bestBowling": "5/22",
+        "average": 22.45,
+        "economyRate": 4.76
+      }
+    },
+    {
+      "id": "jacques-kallis",
+      "name": "Jacques Kallis",
+      "team": "South Africa",
+      "sport": "cricket",
+      "batting": {
+        "matches": 328,
+        "innings": 302,
+        "notOuts": 49,
+        "runs": 11579,
+        "highestScore": 139,
+        "average": 45.77,
+        "ballsFaced": 15886,
+        "strikeRate": 72.89,
+        "hundreds": 17,
+        "fifties": 86
+      },
+      "bowling": {
+        "overs": 2075,
+        "runs": 9047,
+        "wickets": 273,
+        "bestBowling": "5/30",
+        "average": 33.14,
+        "economyRate": 4.36
+      }
+    },
+    {
+      "id": "kapil-dev",
+      "name": "Kapil Dev",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 225,
+        "innings": 207,
+        "notOuts": 38,
+        "runs": 3783,
+        "highestScore": 175,
+        "average": 22.38,
+        "ballsFaced": 3979,
+        "strikeRate": 95.07,
+        "hundreds": 1,
+        "fifties": 14
+      },
+      "bowling": {
+        "overs": 1755,
+        "runs": 6511,
+        "wickets": 253,
+        "bestBowling": "5/43",
+        "average": 25.74,
+        "economyRate": 3.71
+      }
+    },
+    {
+      "id": "imran-khan",
+      "name": "Imran Khan",
+      "team": "Pakistan",
+      "sport": "cricket",
+      "batting": {
+        "matches": 175,
+        "innings": 161,
+        "notOuts": 41,
+        "runs": 3709,
+        "highestScore": 102,
+        "average": 30.91,
+        "ballsFaced": 5105,
+        "strikeRate": 72.65,
+        "hundreds": 1,
+        "fifties": 19
+      },
+      "bowling": {
+        "overs": 1243,
+        "runs": 4835,
+        "wickets": 182,
+        "bestBowling": "6/14",
+        "average": 26.57,
+        "economyRate": 3.89
+      }
+    },
+    {
+      "id": "ian-botham",
+      "name": "Ian Botham",
+      "team": "England",
+      "sport": "cricket",
+      "batting": {
+        "matches": 116,
+        "innings": 107,
+        "notOuts": 11,
+        "runs": 2113,
+        "highestScore": 79,
+        "average": 22.01,
+        "ballsFaced": 2671,
+        "strikeRate": 79.11,
+        "hundreds": 0,
+        "fifties": 9
+      },
+      "bowling": {
+        "overs": 950,
+        "runs": 3667,
+        "wickets": 145,
+        "bestBowling": "4/31",
+        "average": 25.29,
+        "economyRate": 3.86
+      }
+    },
+    {
+      "id": "shakib-al-hasan",
+      "name": "Shakib Al Hasan",
+      "team": "Bangladesh",
+      "sport": "cricket",
+      "batting": {
+        "matches": 247,
+        "innings": 227,
+        "notOuts": 29,
+        "runs": 7570,
+        "highestScore": 134,
+        "average": 38.23,
+        "ballsFaced": 9162,
+        "strikeRate": 82.62,
+        "hundreds": 9,
+        "fifties": 55
+      },
+      "bowling": {
+        "overs": 2115,
+        "runs": 9391,
+        "wickets": 317,
+        "bestBowling": "5/29",
+        "average": 29.62,
+        "economyRate": 4.44
+      }
+    },
+    {
+      "id": "andrew-flintoff",
+      "name": "Andrew Flintoff",
+      "team": "England",
+      "sport": "cricket",
+      "batting": {
+        "matches": 141,
+        "innings": 130,
+        "notOuts": 22,
+        "runs": 3394,
+        "highestScore": 123,
+        "average": 31.43,
+        "ballsFaced": 3821,
+        "strikeRate": 88.82,
+        "hundreds": 3,
+        "fifties": 18
+      },
+      "bowling": {
+        "overs": 1147,
+        "runs": 5402,
+        "wickets": 168,
+        "bestBowling": "4/14",
+        "average": 32.15,
+        "economyRate": 4.71
+      }
+    },
+    {
+      "id": "yuvraj-singh",
+      "name": "Yuvraj Singh",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 304,
+        "innings": 280,
+        "notOuts": 38,
+        "runs": 8701,
+        "highestScore": 150,
+        "average": 35.95,
+        "ballsFaced": 9924,
+        "strikeRate": 87.68,
+        "hundreds": 14,
+        "fifties": 52
+      },
+      "bowling": {
+        "overs": 368,
+        "runs": 1987,
+        "wickets": 111,
+        "bestBowling": "5/31",
+        "average": 17.9,
+        "economyRate": 5.4
+      }
+    },
+    {
+      "id": "ravindra-jadeja",
+      "name": "Ravindra Jadeja",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 197,
+        "innings": 181,
+        "notOuts": 62,
+        "runs": 2756,
+        "highestScore": 87,
+        "average": 23.16,
+        "ballsFaced": 3229,
+        "strikeRate": 85.35,
+        "hundreds": 0,
+        "fifties": 13
+      },
+      "bowling": {
+        "overs": 1600,
+        "runs": 7808,
+        "wickets": 220,
+        "bestBowling": "5/33",
+        "average": 35.49,
+        "economyRate": 4.88
+      }
+    },
+    {
+      "id": "hardik-pandya",
+      "name": "Hardik Pandya",
+      "team": "India",
+      "sport": "cricket",
+      "batting": {
+        "matches": 92,
+        "innings": 85,
+        "notOuts": 24,
+        "runs": 1769,
+        "highestScore": 92,
+        "average": 29,
+        "ballsFaced": 1545,
+        "strikeRate": 114.5,
+        "hundreds": 0,
+        "fifties": 7
+      },
+      "bowling": {
+        "overs": 490,
+        "runs": 2622,
+        "wickets": 82,
+        "bestBowling": "4/24",
+        "average": 31.98,
+        "economyRate": 5.35
+      }
+    },
+    {
+      "id": "shahid-afridi",
+      "name": "Shahid Afridi",
+      "team": "Pakistan",
+      "sport": "cricket",
+      "batting": {
+        "matches": 398,
+        "innings": 366,
+        "notOuts": 27,
+        "runs": 8064,
+        "highestScore": 124,
+        "average": 23.79,
+        "ballsFaced": 6892,
+        "strikeRate": 117,
+        "hundreds": 6,
+        "fifties": 39
+      },
+      "bowling": {
+        "overs": 3327,
+        "runs": 13741,
+        "wickets": 395,
+        "bestBowling": "7/12",
+        "average": 34.79,
+        "economyRate": 4.13
+      }
+    },
+    {
+      "id": "chris-cairns",
+      "name": "Chris Cairns",
+      "team": "New Zealand",
+      "sport": "cricket",
+      "batting": {
+        "matches": 215,
+        "innings": 198,
+        "notOuts": 40,
+        "runs": 4950,
+        "highestScore": 115,
+        "average": 31.33,
+        "ballsFaced": 5748,
+        "strikeRate": 86.11,
+        "hundreds": 5,
+        "fifties": 24
+      },
+      "bowling": {
+        "overs": 1522,
+        "runs": 7184,
+        "wickets": 201,
+        "bestBowling": "5/42",
+        "average": 35.74,
+        "economyRate": 4.72
+      }
+    },
+    {
+      "id": "jason-holder",
+      "name": "Jason Holder",
+      "team": "West Indies",
+      "sport": "cricket",
+      "batting": {
+        "matches": 111,
+        "innings": 102,
+        "notOuts": 25,
+        "runs": 1877,
+        "highestScore": 99,
+        "average": 24.38,
+        "ballsFaced": 2271,
+        "strikeRate": 82.65,
+        "hundreds": 1,
+        "fifties": 9
+      },
+      "bowling": {
+        "overs": 860,
+        "runs": 4403,
+        "wickets": 158,
+        "bestBowling": "5/27",
+        "average": 27.87,
+        "economyRate": 5.12
+      }
+    },
+    {
+      "id": "ben-stokes",
+      "name": "Ben Stokes",
+      "team": "England",
+      "sport": "cricket",
+      "batting": {
+        "matches": 122,
+        "innings": 112,
+        "notOuts": 18,
+        "runs": 3463,
+        "highestScore": 102,
+        "average": 36.84,
+        "ballsFaced": 3739,
+        "strikeRate": 92.62,
+        "hundreds": 3,
+        "fifties": 20
+      },
+      "bowling": {
+        "overs": 700,
+        "runs": 3990,
+        "wickets": 74,
+        "bestBowling": "5/61",
+        "average": 53.92,
+        "economyRate": 5.7
+      }
+    },
+    {
+      "id": "angelo-mathews",
+      "name": "Angelo Mathews",
+      "team": "Sri Lanka",
+      "sport": "cricket",
+      "batting": {
+        "matches": 226,
+        "innings": 208,
+        "notOuts": 62,
+        "runs": 5942,
+        "highestScore": 139,
+        "average": 40.7,
+        "ballsFaced": 7565,
+        "strikeRate": 78.55,
+        "hundreds": 3,
+        "fifties": 41
+      },
+      "bowling": {
+        "overs": 900,
+        "runs": 4716,
+        "wickets": 117,
+        "bestBowling": "6/20",
+        "average": 40.31,
+        "economyRate": 5.24
+      }
+    },
+    {
+      "id": "sanath-jayasuriya",
+      "name": "Sanath Jayasuriya",
+      "team": "Sri Lanka",
+      "sport": "cricket",
+      "batting": {
+        "matches": 445,
+        "innings": 409,
+        "notOuts": 30,
+        "runs": 13430,
+        "highestScore": 189,
+        "average": 35.44,
+        "ballsFaced": 14726,
+        "strikeRate": 91.2,
+        "hundreds": 28,
+        "fifties": 68
+      },
+      "bowling": {
+        "overs": 1859,
+        "runs": 8886,
+        "wickets": 323,
+        "bestBowling": "6/29",
+        "average": 27.51,
+        "economyRate": 4.78
+      }
+    },
+    {
+      "id": "moeen-ali",
+      "name": "Moeen Ali",
+      "team": "England",
+      "sport": "cricket",
+      "batting": {
+        "matches": 138,
+        "innings": 127,
+        "notOuts": 13,
+        "runs": 2622,
+        "highestScore": 128,
+        "average": 23,
+        "ballsFaced": 2956,
+        "strikeRate": 88.7,
+        "hundreds": 3,
+        "fifties": 12
+      },
+      "bowling": {
+        "overs": 900,
+        "runs": 5040,
+        "wickets": 87,
+        "bestBowling": "4/31",
+        "average": 57.93,
+        "economyRate": 5.6
+      }
+    },
+    {
+      "id": "mitchell-marsh",
+      "name": "Mitchell Marsh",
+      "team": "Australia",
+      "sport": "cricket",
+      "batting": {
+        "matches": 97,
+        "innings": 89,
+        "notOuts": 12,
+        "runs": 2691,
+        "highestScore": 121,
+        "average": 34.95,
+        "ballsFaced": 2799,
+        "strikeRate": 96.13,
+        "hundreds": 4,
+        "fifties": 15
+      },
+      "bowling": {
+        "overs": 450,
+        "runs": 2655,
+        "wickets": 46,
+        "bestBowling": "5/33",
+        "average": 57.72,
+        "economyRate": 5.9
+      }
+    }
+  ]
+}
