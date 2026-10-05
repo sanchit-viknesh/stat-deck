@@ -2,7 +2,7 @@
 // later becomes 'cricket' | 'football' so the app can branch on sport without guessing from a string.
 export type Sport = 'cricket';
 
-// Batting side of a Top Trumps cricket card. Plain numbers as printed on the card — nothing computed.
+// Batting side of a cricket stat card. Plain numbers as printed on the card — nothing computed.
 export interface BattingStats {
   matches: number;
   innings: number;
@@ -17,7 +17,7 @@ export interface BattingStats {
 }
 
 // Bowling figures. bestBowling is a string (e.g. "5/23" = 5 wickets for 23 runs) since it isn't
-// a single comparable number — that's why it won't be a choosable stat in a Top Trumps round later.
+// a single comparable number — that's why it won't be a choosable stat in a round later.
 export interface BowlingStats {
   overs: number;
   runs: number;
