@@ -23,8 +23,10 @@ export interface BowlingStats {
   runs: number;
   wickets: number;
   bestBowling: string;
-  average: number;
-  economyRate: number;
+  // null when it can't be calculated: average is runs ÷ wickets (no wickets → null),
+  // economy is runs ÷ overs (never bowled → null). Never store a fake 0: it would win lower-is-better rounds.
+  average: number | null;
+  economyRate: number | null;
 }
 
 // The card shape the whole app passes around. id for identity/keys, name/team for display,
